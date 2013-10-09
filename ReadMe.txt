@@ -1,7 +1,4 @@
 Name: Arpit Bansal
-
-Student ID: 5916100979
-
 EMail: arpitban@usc.edu
 
 
